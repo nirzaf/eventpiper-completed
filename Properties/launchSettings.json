@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "eventpiper": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\tmp\\requestapp\\bin\\Debug\\net5.0\\requestapp.exe"
+    }
+  }
+}
